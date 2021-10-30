@@ -1,4 +1,4 @@
-# How to get All Exchanges symbols by using Web Scraping
+# How to get All Exchanges symbols by using Requests
 The following **Python** Script is a **simple** Script.
 
 The main goal of the script is to retrieve information about **all the crypto exchanges** identified by *https://www.coingecko.com/en*
