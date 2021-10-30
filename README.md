@@ -20,8 +20,14 @@ Because the information that we are getting is a **JSON** file, i.e., **dictiona
 Let's not forget to give a proper name to our **index column**, in this case we can just keep it simple and name it *index* so it wont be **empty**
 > df_exchange_symbols.index.name = 'index'
 
+Dont forget we need to save our **output directory** to save the file, for this example the folder will be called *"Output"*.
+>output_folder= "Output"
+>if not os.path.exists(output_folder):
+>       os.mkdir(output_folder)
+
+
 And finnaly just save the file to any location at your **choice!**
-> df_exchange_symbols.to_csv('Output\AllExchanges_CoinGecko_{}.csv'.format(str(datetime.today().strftime('%Y%m%d'))))
+> df_exchange_symbols.to_csv(os.path.join(output_folder, 'AllExchanges_CoinGecko_{}.csv'.format(str(datetime.today().strftime('%Y%m%d')))))
 
 This **method** is a little bigger because we are adding the **current date** to the file name!
 
