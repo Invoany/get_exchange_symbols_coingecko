@@ -32,3 +32,5 @@ And finnaly just save the file to any location at your **choice!**
 This **method** is a little bigger because we are adding the **current date** to the file name!
 
 We are also returning an **Dataframe** that contains this information.
+
+To check the CSV created please look at the file inside of the Output table
