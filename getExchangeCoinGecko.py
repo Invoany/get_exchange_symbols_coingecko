@@ -13,7 +13,7 @@ def get_exchange_symbols_coingecko():
     res = json.loads(req.text)
     df_exchange_symbols = pd.DataFrame.from_dict(res) 
     df_exchange_symbols.index.name = 'index'
-    output_folder= os.path.join(os.getcwd(),"Output")
+    output_folder= os.path.join(os.path.dirname(os.path.realpath(__file__)),"Output")
     if not os.path.exists(output_folder):
         os.mkdir(output_folder)
     try:
