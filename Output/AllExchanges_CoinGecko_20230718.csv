@@ -1,0 +1,774 @@
+index,id,name
+0,1bch,1BCH
+1,3xcalibur,3xcalibur
+2,aave,Aave
+3,abcc,ABCC
+4,acala_swap,Acala Swap
+5,acdx,ACDX
+6,ace,Ace
+7,acsi_finance,Acsi Finance
+8,agora_swap,Agora Swap
+9,alexgo,ALEX
+10,algebra_finance,Algebra finance
+11,alienfi,AlienFi
+12,alpha_five,Alpha5
+13,altcointrader,AltcoinTrader
+14,alterdice,AlterDice
+15,altmarkets,Altmarkets
+16,amaterasu,Amaterasu Finance
+17,animeswap,Animeswap
+18,apeswap-arbitrum,Apeswap (Arbitrum)
+19,apeswap_bsc,ApeSwap
+20,apeswap_polygon,ApeSwap (Polygon)
+21,apeswap_telos,Apeswap (Telos)
+22,apex_pro,ApeX Pro
+23,aprobit,Aprobit
+24,aqx,AQX
+25,aqx_derivatives,AQX (Derivatives)
+26,arbidex,Arbidex
+27,arbswap_arbitrum_one,Arbswap
+28,archerswap,Archerswap
+29,arthswap,ArthSwap
+30,ashswap,Ashswap
+31,astroport,Astroport (Classic)
+32,astroport_injective,Astroport (Injective)
+33,astroport_neutron,Astroport (Neutron)
+34,astroport_v2,Astroport V2
+35,auroraswap,AuroraSwap
+36,autoshark_finance,AutoShark Finance
+37,aux,AUX Exchange
+38,azbit,Azbit
+39,b2bx,B2BX
+40,babydogeswap,BabyDogeSwap
+41,babyswap,BabySwap
+42,baguette,Baguette
+43,bakeryswap,Bakeryswap
+44,bakkt,Bakkt
+45,balanced_network,Balanced
+46,balancer,Balancer V2
+47,balancer_arbitrum,Balancer V2 (Arbitrum)
+48,balancer-gnosis,Balancer V2 (Gnosis)
+49,balancer_polygon,Balancer V2 (Polygon)
+50,balancer_v1,Balancer V1
+51,bancor,Bancor (V2)
+52,bancor_v3,Bancor (V3)
+53,baptswap,BAPTSwap
+54,baryon_network,Baryon Network
+55,basefex,BaseFEX
+56,bcex,BCEX
+57,beamswap,Beamswap
+58,beaxy,Beaxy
+59,beethovenx,Beethoven X
+60,beethoven_x_optimism,Beethoven X (Optimism)
+61,benswap_smart_bitcoin_cash,Benswap
+62,bgogo,Bgogo
+63,bibox,Bibox
+64,bibox_futures,Bibox (Futures)
+65,biconomy,Biconomy
+66,bigone,BigONE
+67,bigone_futures,BigONE Futures
+68,bilaxy,Bilaxy
+69,binance,Binance
+70,binance_dex,Binance DEX
+71,binance_dex_mini,Binance DEX (Mini)
+72,binance_futures,Binance (Futures)
+73,binance_us,Binance US
+74,bingx,BingX
+75,bingx_futures,BingX (Futures)
+76,bione,BiONE
+77,birake,Birake
+78,bisq,Bisq
+79,biswap,Biswap
+80,bit2c,Bit2c
+81,bit2me,Bit2Me
+82,bitazza,Bitazza
+83,bitbank,Bitbank
+84,bitbay,Zonda
+85,bitbegin,Bitbegin
+86,bitbns,BitBNS
+87,bitbox,BITFRONT
+88,bitbuy,Bitbuy
+89,bitci,Bitci TR
+90,bitcoin_com,FMFW.io
+91,bit_com,BIT
+92,bit_com_futures,BIT (Futures)
+93,bitexbook,BITEXBOOK
+94,bitexen,Bitexen
+95,bitexlive,Bitexlive
+96,bitfex,Bitfex
+97,bitfinex,Bitfinex
+98,bitfinex_futures,Bitfinex (Futures)
+99,bitflyer,bitFlyer
+100,bitflyer_futures,Bitflyer (Futures)
+101,bitforex,Bitforex
+102,bitforex_futures,Bitforex (Futures)
+103,bitget,Bitget
+104,bitget_futures,Bitget Futures
+105,bithash,BitHash
+106,bithumb,Bithumb
+107,bithumb_futures,Bithumb (Futures)
+108,bithumb_global,BitGlobal
+109,bitinka,Bitinka.com
+110,bitkonan,BitKonan
+111,bitkub,Bitkub
+112,bitlo,Bitlo
+113,bitmake,BitMake
+114,bitmart,BitMart
+115,bitmart_futures,Bitmart Futures
+116,bitmax,AscendEX (BitMax)
+117,bitmax_futures,AscendEX  (BitMax) (Futures)
+118,bitmex,BitMEX (Derivative)
+119,bitmex_spot,BitMEX
+120,bitonbay,BitOnBay
+121,bitopro,BitoPro
+122,bitpanda,Bitpanda Pro
+123,bitrue,Bitrue
+124,bitrue_futures,Bitrue (Futures)
+125,bitso,Bitso
+126,bitstamp,Bitstamp
+127,bitsten,Bitsten
+128,bitstorage,BitStorage
+129,bittrex,Bittrex Global
+130,bitubu,Bitubu Exchange
+131,bitvavo,Bitvavo
+132,bitz_futures,BitZ (Futures)
+133,bkex,BKEX
+134,blockchain_com,Blockchain.com
+135,bluemove,BlueMove
+136,bobswap_polygon,BobSwap (Polygon)
+137,bossswap,BossSwap
+138,btc_alpha,BTC-Alpha
+139,btcbox,BTCBOX
+140,btcc,BTCC
+141,btcc_futures,BTCC Futures
+142,btcmarkets,BTCMarkets
+143,btcmex,BTCMEX
+144,btcsquare,BTCSquare
+145,btc_trade_ua,BTC Trade UA
+146,btcturk,BtcTurk Kripto
+147,btse,BTSE
+148,btse_futures,BTSE (Futures)
+149,bullish_com,Bullish
+150,buyucoin,BuyUcoin
+151,bw,BW.com
+152,bybit,Bybit (Futures)
+153,bybit_spot,Bybit
+154,bytex,Bytex
+155,camelot,Camelot
+156,camelot-v3,Camelot V3
+157,canto_dex,Canto Dex
+158,cantoswap,Cantoswap
+159,capricorn,Capricorn
+160,catex,Catex
+161,cetus,Cetus
+162,cex,CEX.IO
+163,chainex,ChainEX
+164,changelly,Changelly PRO
+165,cherryswap,CherrySwap
+166,chiliz,ChilizX
+167,chronos,Chronos
+168,citex,CITEX
+169,claimswap,Claimswap
+170,clipper_ethereum,Clipper (Ethereum)
+171,clipper_moonbeam,Clipper (Moonbeam)
+172,clipper_optimism,Clipper (Optimism)
+173,clipper_polygon,Clipper (Polygon)
+174,cme_futures,CME Group
+175,coincheck,Coincheck
+176,coindcx,CoinDCX
+177,coindeal,Coindeal
+178,coin_egg,CoinEgg
+179,coinex,CoinEx
+180,coinex_futures,CoinEx (Futures)
+181,coinfalcon,Coinfalcon
+182,coinfield,Coinfield
+183,coinflex,CoinFLEX
+184,coinflex_futures,CoinFLEX (Futures)
+185,coingi,Coingi
+186,coinjar,CoinJar Exchange
+187,coinlist,Coinlist
+188,coinmargin,CoinMargin
+189,coin_metro,Coinmetro
+190,coinone,Coinone
+191,coinsbit,Coinsbit
+192,coinspro,Coins.ph
+193,coinstore,Coinstore
+194,cointiger,CoinTiger
+195,cointiger_futures,CoinTiger (Futures)
+196,cointr,CoinTR Pro
+197,cointr_derivatives,CoinTR Pro (Derivatives)
+198,coinw,CoinW
+199,coinzix,Coinzix
+200,coinzoom,Coinzoom
+201,comethswap,ComethSwap
+202,concave,Concave
+203,c_patex,C-Patex
+204,crema_finance,Crema Finance
+205,crescent,Crescent
+206,crex24,CREX24
+207,crodex,Crodex
+208,cronaswap,Cronaswap
+209,cronus_finance,Cronus Finance
+210,croswap,CroSwap
+211,crypto_com,Crypto.com Exchange
+212,crypto_com_futures,Crypto.com Exchange (Futures)
+213,cryptology,Cryptology
+214,cswap,cSwap
+215,c_trade,C-Trade
+216,currency,Currency.com
+217,curve_arbitrum,Curve (Arbitrum)
+218,curve_avalanche,Curve (Avalanche)
+219,curve_ethereum,Curve (Ethereum)
+220,curve_fantom,Curve (Fantom)
+221,curve_moonbeam,Curve (Moonbeam)
+222,curve_optimism,Curve (Optimism)
+223,curve_polygon,Curve (Polygon)
+224,curve_xdai,Curve (Xdai)
+225,dao_swap,DAO Swap
+226,darkknight,Dark KnightSwap
+227,dcoin,Dcoin
+228,deepcoin,Deepcoin
+229,deepcoin_derivatives,Deepcoin (Derivatives)
+230,defichain,DeFiChain DEX
+231,defi_kingdoms,Defi Kingdoms
+232,defi_kingdoms_crystalvale,Defi Kingdoms (Crystalvale)
+233,defi_plaza,DefiPlaza
+234,defi_swap,DeFi Swap
+235,degate,DeGate
+236,delta_futures,Delta Exchange (Futures)
+237,delta_spot,Delta Exchange
+238,dem_exchange,Demex
+239,deribit,Deribit
+240,deribit_spot,Deribit Spot
+241,deversifi,Rhino.fi
+242,dexalot,Dexalot
+243,dexter,Dexter
+244,dextrade,Dex-Trade
+245,dforceswap_arbitrum,dForceswap (Arbitrum)
+246,dforceswap_bsc,dForceswap (BSC)
+247,dforceswap_ethereum,dForceswap (Ethereum)
+248,dforceswap_optimism,dForceswap (Optimism)
+249,dforceswap_polygon,dForceswap (Polygon)
+250,dfx,DFX
+251,dfx_polygon,DFX (Polygon)
+252,dfyn,Dfyn
+253,diffusion,Diffusion Finance
+254,difx,DIFX
+255,digifinex,DigiFinex
+256,dinosaureggs,DinosaurEggs (BSC)
+257,dodo,DODO
+258,dodo_arbitrum,Dodo (Arbitrum)
+259,dodo_bsc,Dodo (BSC)
+260,dodo_polygon,Dodo (Polygon)
+261,dogeshrek,Dogeshrek
+262,dogeswap,DogeSwap
+263,dooar_bsc,DOOAR (BSC)
+264,dooar_ethereum,DOOAR (Ethereum)
+265,doveswap-v3,DoveSwap V3
+266,dove_wallet,BTX
+267,drift_protocol,Drift Protocol
+268,duckydefi,DuckyDeFi
+269,duedex,DueDEX
+270,dydx,dYdX
+271,dydx_perpetual,dYdX Perpetual
+272,dystopia,Dystopia
+273,elk_finance_avax,Elk Finance (Avalanche)
+274,elk_finance_bsc,Elk Finance (BSC)
+275,elk_finance_ethereum,Elk Finance (Ethereum)
+276,elk_finance_polygon,Elk Finance (Polygon)
+277,elk_finance_telos,Elk Finance (Telos)
+278,ellipsis_finance,Ellipsis Finance
+279,emirex,Emirex
+280,empiredex,EmpireDEX (Cronos)
+281,empiredex_bsc,EmpireDEX (BSC)
+282,empiredex_empire,EmpireDEX (Empire)
+283,energiswap,Energiswap
+284,equalizer,Equalizer
+285,equilibre,Équilibre
+286,evmoswap,EvmoSwap
+287,excalibur,Excalibur
+288,exmarkets,ExMarkets
+289,exmo,EXMO
+290,fairdesk,Fairdesk
+291,fairdesk_derivatives,Fairdesk Derivatives
+292,fairyswap,Fairyswap
+293,fameex,FameEX
+294,fastex,Fastex
+295,fatbtc,FatBTC
+296,ferro_protocol,Ferro Protocol
+297,financex,FinanceX
+298,finexbox,FinexBox
+299,firebird_finance_polygon,Firebird Finance (Polygon)
+300,flatqube,FlatQube
+301,flybit,Flybit
+302,forteswap,Forteswap
+303,four_swap,4swap
+304,foxbit,Foxbit
+305,fraxswap_ethereum,Fraxswap (Ethereum)
+306,freiexchange,Freiexchange
+307,fubt,FUBT
+308,fuzz_finance,FuzzSwap
+309,fx_swap,Fx Swap
+310,gate,Gate.io
+311,gate_futures,Gate.io (Futures)
+312,gdac,GDAC
+313,gdax,Coinbase Exchange
+314,gemini,Gemini
+315,gemswap,GemSwap
+316,glide_finance,Glide Finance
+317,globe_exchange,Globe
+318,globe_exchange_derivatives,Globe (Derivatives)
+319,globiance,Globiance
+320,gmo_japan,GMO Japan
+321,gmo_japan_futures,GMO Japan (Futures)
+322,gmx_arbitrum,GMX Derivatives (Arbitrum)
+323,gmx_avalanche,GMX Derivatives (Avalanche)
+324,gopax,GoPax
+325,graviex,Graviex
+326,gravity_finance,Gravity Finance
+327,greenhouse_dex,Greenhouse
+328,gumball,GumBall
+329,hakuswap,HakuSwap
+330,hanbitco,Hanbitco
+331,hbtc_futures,BHEX (Futures)
+332,hebeswap,Hebeswap
+333,hermes_protocol,Hermes Protocol
+334,hitbtc,HitBTC
+335,hitbtc_derivatives,HitBTC (Derivatives)
+336,honeyswap,Honeyswap
+337,honeyswap_polygon,Honeyswap (Polygon)
+338,hopex,Hopex
+339,huckleberry,Huckleberry
+340,huobi,Huobi
+341,huobi_dm,Huobi Futures
+342,huobi_japan,BitTrade
+343,huobi_korea,Huobi Korea
+344,hydra,Hydra DEX
+345,icecreamswap-core,IcecreamSwap (Core)
+346,idex,Idex
+347,impossible_finance,Impossible Finance
+348,impossible_finance_v3,Impossible Finance (v3)
+349,independent_reserve,Independent Reserve
+350,indodax,Indodax
+351,injective,Helix
+352,injective_futures,Helix (Futures)
+353,integral_size,Integral SIZE
+354,inx_one,INX One
+355,itbit,itBit
+356,iziswap,iZiSwap (BSC)
+357,iziswap_zksync,iZiSwap (zkSync)
+358,jetswap,JetSwap
+359,jex_futures,Binance JEX (Futures)
+360,jswap,Jswap
+361,julswap,Julswap
+362,junoswap,Junoswap
+363,jupiter,Jupiter
+364,justmoney_bttc,Justmoney (Bittorent)
+365,kaddex,eckoDEX
+366,kaidex,Kaidex
+367,kaidex_v3,Kaidex V3
+368,kanga,Kanga
+369,karura_swap,Karura Swap
+370,katana,Katana
+371,kava,Kava Swap
+372,kdswap,KDSwap
+373,khaos_exchange,Khaos Exchange
+374,kibbleswap,KibbleSwap
+375,kickex,KickEX
+376,kinesis_money,Kinesis Money
+377,klayswap,KLAYSwap
+378,klever_exchange,Bitcoin.me
+379,klex,KLEX
+380,knightswap,KnightSwap
+381,koinbazar,Koinbx
+382,korbit,Korbit
+383,kraken,Kraken
+384,kraken_futures,Kraken (Futures)
+385,kucoin,KuCoin
+386,kujira,Kujira Fin
+387,kumex,KuCoin Futures
+388,kuna,Kuna Exchange
+389,kuswap,Kuswap
+390,kwenta_derivatives,Kwenta Derivatives
+391,kyberswap_classic_arbitrum,Kyberswap Classic (Arbitrum)
+392,kyberswap_classic_avalanche,KyberSwap Classic (Avalanche)
+393,kyberswap_classic_bsc,KyberSwap Classic (BSC)
+394,kyberswap_classic_bttc,Kyberswap Classic (Bittorent)
+395,kyberswap_classic_ethereum,KyberSwap Classic (Ethereum)
+396,kyberswap_classic_fantom,KyberSwap Classic (Fantom)
+397,kyberswap_classic_optimism,Kyberswap Classic (Optimism)
+398,kyberswap_classic_polygon,KyberSwap Classic (Polygon)
+399,kyberswap_elastic,KyberSwap Elastic (Ethereum)
+400,kyberswap_elastic_arbitrum,Kyberswap Elastic (Arbitrum)
+401,kyberswap_elastic_avalanche,Kyberswap Elastic (Avalanche)
+402,kyberswap_elastic_bsc,Kyberswap Elastic (BSC)
+403,kyberswap_elastic_fantom,Kyberswap Elastic (Fantom)
+404,kyberswap_elastic_optimism,Kyberswap Elastic (Optimism)
+405,kyberswap_elastic_polygon,Kyberswap Elastic (Polygon)
+406,latoken,LATOKEN
+407,lbank,LBank
+408,lcx,LCX Exchange
+409,leonicornswap,LeonicornSwap
+410,levinswap_xdai,Levinswap (xDai)
+411,lfgswap,LFGswap
+412,lfgswap-core,LFGSwap (Core)
+413,libre_swap,Libre Swap
+414,lif3,LIF3 (Tombchain)
+415,lif3-bsc,LIF3 (BSC)
+416,lif3-polygon,LIF3 (Polygon)
+417,liquid_derivatives,Liquid Perpetuals
+418,liquidswap,Liquidswap
+419,localtrade,LocalTrade
+420,loop_markets,Loop Markets
+421,loopring,Loopring
+422,loopring_amm,Loopring AMM
+423,luaswap,Luaswap
+424,luno,Luno
+425,lydia_finance,Lydia Finance
+426,lykke,Lykke
+427,magicswap,Magicswap
+428,maiar,xExchange
+429,makiswap,Makiswap
+430,mango_markets_derivatives,Mango Markets (Derivatives)
+431,mango_markets_spot,Mango Markets
+432,mars_ecosystem,Mars Ecosystem
+433,maverick_protocol,Maverick Protocol
+434,max_maicoin,Max Maicoin
+435,mcdex,MCDEX (Arbitrum)
+436,mcdex_bsc,MCDEX (BSC)
+437,mdex,Mdex
+438,mdex_bsc,Mdex BSC
+439,mercado_bitcoin,Mercado Bitcoin
+440,mercatox,Mercatox
+441,meshswap,Meshswap
+442,miaswap,MiaSwap
+443,milkyswap-milkada,MilkySwap
+444,mimo,Mimo
+445,mindgames-arbitrum,MIND Games
+446,minswap,Minswap
+447,mistswap_smart_bitcoin_cash,Mistswap
+448,mm_finance,MMFinance (Cronos)
+449,mm-finance-arbitrum,MM Finance (Arbitrum)
+450,mmfinance_polygon,MMFinance (Polygon)
+451,mmfinance-v3-arbitrum,MMFinance V3 (Arbitrum)
+452,mojitoswap,MojitoSwap
+453,morpheus_swap,Morpheus Swap
+454,muesliswap,Muesliswap
+455,muesliswap-milkada,Muesliswap (Milkada)
+456,mute,Mute
+457,mxc,MEXC
+458,mxc_futures,MEXC (Futures)
+459,mycoinstory,MCS
+460,nachoswap,NachoSwap
+461,namebase,Namebase
+462,nami_exchange,Nami.Exchange
+463,nanu_exchange,Nanu Exchange
+464,narkasa,Narkasa
+465,nash,Nash
+466,nearpad,NearPAD
+467,netswap,Netswap
+468,neutroswap,Neutroswap
+469,newdex,Newdex
+470,nexus_mutual,Nexus Mutual
+471,nice_hash,NiceHash
+472,nominex,Nominex
+473,nomiswap,Nomiswap
+474,nomiswap_stable,Nomiswap (Stable)
+475,novadax,NovaDAX
+476,oasis_trade,OasisDEX
+477,occamx,OccamX
+478,oceanex,Oceanex
+479,okcoin,Okcoin
+480,okex,OKX
+481,okex_swap,OKX (Futures)
+482,omgfin,Omgfin
+483,omnidex,OmniDex
+484,one_inch_liquidity_protocol,1inch Liquidity Protocol
+485,one_inch_liquidity_protocol_bsc,1inch Liquidity Protocol (BSC)
+486,onsen-swap,Onsen Swap
+487,oolongswap,Oolongswap
+488,openleverage,OpenLeverage
+489,openocean_finance,OpenOcean
+490,openswap,OpenSwap
+491,opnx_derivatives,Opnx Derivatives
+492,opnx_spot,Opnx
+493,oracleswap,Oracleswap
+494,oraidex,OraiDEX
+495,orca,Orca
+496,orderbook,Orderbook.io
+497,orderly_network,Orderly Network
+498,oreoswap,OreoSwap
+499,osmosis,Osmosis
+500,ovex,Ovex
+501,p2pb2b,P2B
+502,paintswap,Paintswap
+503,pancakeswap_aptos,Pancakeswap (Aptos)
+504,pancakeswap_ethereum,PancakeSwap (Ethereum)
+505,pancakeswap_new,PancakeSwap (v2)
+506,pancakeswap_stableswap,Pancakeswap (Stableswap)
+507,pancakeswap-v2-polygon-zkevm,Pancakeswap V2 (Polygon zkEVM)
+508,pancakeswap-v3-bsc,Pancakeswap V3 (BSC)
+509,pancakeswap-v3-ethereum,Pancakeswap V3 (Ethereum)
+510,pancakeswap-v3-polygon-zkevm,Pancakeswap V3 (Polygon zkEVM)
+511,pangolin,Pangolin
+512,pangolin-flare,Pangolin (Flare)
+513,pangolin-songbird,Pangolin (Songbird)
+514,paribu,Paribu
+515,paritex,Paritex
+516,paymium,Paymium
+517,pearl-exchange,PearlFi
+518,pegasys,Pegasys
+519,pegasys-v3-rollux,Pegasys V3 (Rollux)
+520,perpetual_protocol,Perpetual Protocol
+521,phemex,Phemex
+522,phemex_futures,Phemex (Futures)
+523,photonswap,PhotonSwap (Cronos)
+524,photonswap_kava,PhotonSwap (Kava)
+525,pinkswap,PinkSwap
+526,pionex,Pionex
+527,planet_finance,Planet Finance
+528,platypus_finance,Platypus Finance
+529,plenty_network,Plenty Network
+530,pointpay,PointPay
+531,polaris,Polaris
+532,polkaex_shiden,PolkaEx (Shiden)
+533,polkaswap,Polkaswap
+534,poloniex,Poloniex
+535,poloniex_futures,Poloniex Futures
+536,polycat_finance,Polycat Finance
+537,polydex,PolyDEX
+538,polyzap,PolyZap
+539,pomswap,POMSwap
+540,powertrade,Powertrade
+541,powertrade_derivatives,Powertrade (Derivatives)
+542,powswap,Powswap
+543,prime_xbt,Prime XBT
+544,prism,Prism Protocol
+545,probit,ProBit Global
+546,probit_kr,Probit (Korea)
+547,protofi,ProtoFi
+548,puddingswap,PuddingSwap
+549,pulsex,PulseX
+550,pulsex-v2,PulseX V2
+551,purcow,Purcow
+552,qmall,QMall
+553,quickswap,Quickswap
+554,quickswap_dogechain,Quickswap (Dogechain)
+555,quickswap-polygon-zkevm,Quickswap (Polygon zkEVM)
+556,quickswap_v3,Quickswap (v3)
+557,quipuswap,Quipuswap
+558,quoine,Liquid
+559,radioshack_avalanche,RadioShack (Avalanche)
+560,radioshack_bsc,RadioShack (BSC)
+561,radioshack_ethereum,RadioShack (Ethereum)
+562,radioshack_polygon_pos,RadioShack (Polygon)
+563,ramses,Ramses
+564,ramses-v2,Ramses V2
+565,raydium2,Raydium
+566,rcpswap,RCP Swap
+567,ref_finance,Ref Finance
+568,resfinex,Resfinex
+569,ruby_exchange,Ruby Exchange
+570,saber,Saber
+571,safe_trade,SafeTrade
+572,saitaswap-bsc,SaitaSwap (BSC)
+573,saitaswap-ethereum,SaitaSwap (Ethereum)
+574,sakeswap,SakeSwap
+575,saros,Saros Finance
+576,saucerswap_dex,Saucerswap
+577,secondbtc,SecondBTC
+578,secretswap,SecretSwap
+579,serum_dex,Serum DEX
+580,shade_protocol,Shade Protocol
+581,shadowswap,ShadowSwap
+582,sharkswap,SharkSwap
+583,sharkyswap,SharkySwap
+584,shibaswap,Shibaswap
+585,shibswap,ShibSwap
+586,siennaswap,Siennaswap
+587,sifchain,Sifchain
+588,sinegy,SINEGY
+589,smardex,SmarDex
+590,solarbeam,Solarbeam
+591,solarflare,Solarflare
+592,solidlizard,SolidLizard
+593,solidly,Solidly
+594,solidlydex,Solidly (Ethereum)
+595,solisnek,SoliSnek
+596,sologenic,Sologenic
+597,soulswap,Soulswap
+598,south_xchange,SouthXchange
+599,sovryn,Sovryn DEX
+600,soy-finance-callisto,Soy Finance (Callisto)
+601,spacefi,SpaceFi
+602,spacefi_zksync,SpaceFi (ZkSync)
+603,spartan_protocol,Spartan Protocol
+604,sphynx_brise,Sphynx (Brise)
+605,sphynx_swap,Sphynx Swap (BSC)
+606,spice_trade_avalanche,Spice Trade (Avalanche)
+607,spicyswap,Spicyswap
+608,spiritswap,SpiritSwap
+609,spiritswap_v2,SpiritSwap (V2)
+610,spookyswap,SpookySwap
+611,stake_cube,StakeCube Exchange
+612,stellar_term,StellarTerm
+613,stellaswap,StellaSwap
+614,stellaswap-v3,Stellaswap (V3)
+615,step-exchange,Step Exchange
+616,step_finance,Step Finance
+617,sterling,Sterling
+618,stocks_exchange,STEX
+619,stormgain,Stormgain
+620,stormgain_futures,Stormgain Futures
+621,suiswap,Suiswap
+622,sundaeswap,Sundaeswap
+623,sunswap_v1,SUN.io
+624,surfswap,Surfswap
+625,sushiswap,Sushiswap
+626,sushiswap_arbitrum,Sushiswap (Arbitrum One)
+627,sushiswap_arbitrum_nova,Sushiswap (Arbitrum Nova)
+628,sushiswap_avalanche,Sushiswap (Avalanche)
+629,sushiswap_bsc,Sushiswap (BSC)
+630,sushiswap_celo,Sushiswap Celo
+631,sushiswap_fantom,Sushiswap (Fantom)
+632,sushiswap_harmony,Sushiswap (Harmony)
+633,sushiswap_polygon_pos,Sushiswap (Polygon POS)
+634,sushiswap-v3-arbitrum,Sushiswap V3 (Arbitrum)
+635,sushiswap-v3-arbitrum-nova,Sushiswap V3 (Arbitrum Nova)
+636,sushiswap-v3-bsc,Sushiswap V3 (BSC)
+637,sushiswap-v3-fantom,Sushiswap V3 (Fantom)
+638,sushiswap-v3-optimism,Sushiswap V3 (Optimism)
+639,sushiswap-v3-polygon,Sushiswap V3 (Polygon)
+640,sushiswap-v3-polygon-zkevm,Sushiswap V3 (Polygon zkEVM)
+641,sushiswap-v3-thundercore,Sushiswap V3 (ThunderCore)
+642,sushiswap_xdai,Sushiswap (xDai)
+643,swapfish,SwapFish
+644,swappi,Swappi
+645,swapr_arbitrum,Swapr (Arbitrum)
+646,swapr_ethereum,Swapr (Ethereum)
+647,swapr_xdai,Swapr (Xdai)
+648,swapsicle,Swapsicle
+649,swapsicle-telos,Swapsicle (Telos)
+650,swop_fi,Swop.Fi
+651,swych,SWYCH
+652,syncswap,SyncSwap
+653,synfutures,SynFutures
+654,synthetix,Kwenta
+655,tangoswap,TangoSwap
+656,tarmex,Tarmex
+657,tdax,Satang Pro
+658,tealswap,Tealswap
+659,templedao,TempleDAO
+660,tenderswap,Tenderswap
+661,terraswap,Terraswap Classic
+662,tethys,Tethys Finance
+663,tetuswap,Tetuswap
+664,tfm,Terraformer
+665,thala,Thala
+666,thena,THENA
+667,thena-fusion,THENA FUSION
+668,therocktrading,TheRockTrading
+669,thorswap,THORSwap
+670,thorus,Thorus
+671,thorwallet,THORWallet DEX
+672,tidex,Tidex
+673,tinyman,Tinyman
+674,tokenize,Tokenize
+675,tokenlon,Tokenlon
+676,tokenomy,Tokenomy
+677,token_sets,TokenSets
+678,toko_crypto,TokoCrypto
+679,tokok,TOKOK
+680,tokpie,Tokpie
+681,tomb_swap_fantom,Tomb Swap (Fantom)
+682,toobit,Toobit
+683,toobit_derivatives,Toobit Futures
+684,trade_ogre,TradeOgre
+685,traderjoe,Trader Joe
+686,traderjoe-v2-1-arbitrum,TraderJoe V2.1 (Arbitrum)
+687,traderjoe-v2-1-avalanche,TraderJoe V2.1 (Avalanche)
+688,traderjoe-v2-1-bsc,TraderJoe V2.1 (BSC)
+689,traderjoe-v2-arbitrum,Trader Joe v2 (Arbitrum)
+690,traderjoe-v2-avalanche,Trader Joe v2
+691,traderjoe-v2-bsc,TraderJoe V2 (BSC)
+692,tranquil_finance,Tranquil Finance
+693,trisolaris,Trisolaris
+694,tropical_finance,Tropical Finance
+695,trubit,Trubit
+696,trustless-market,Trustless Markets
+697,txbit,Txbit
+698,ubeswap,Ubeswap
+699,unicly,Unicly
+700,unisat,UniSat
+701,uniswap-bsc,Uniswap V3 (BSC)
+702,uniswap_v2,Uniswap V2 (Ethereum)
+703,uniswap_v3,Uniswap V3 (Ethereum)
+704,uniswap_v3_arbitrum,Uniswap V3 (Arbitrum One)
+705,uniswap-v3-avalanche,Uniswap V3 (Avalanche)
+706,uniswap_v3_celo,Uniswap V3 (Celo)
+707,uniswap_v3_optimism,Uniswap V3 (Optimism)
+708,uniswap_v3_polygon_pos,Uniswap V3 (Polygon)
+709,uniwswap,UniWswap
+710,unnamed,Unnamed
+711,upbit,Upbit
+712,upbit_indonesia,Upbit Indonesia 
+713,valr,VALR
+714,value_liquid_bsc,vSwap BSC
+715,velocimeter,Velocimeter
+716,velocimeter_v2,Velocimeter V2
+717,velocore,Velocore
+718,velodrome,Velodrome Finance
+719,velodrome-finance-v2,Velodrome Finance v2
+720,verse,Verse
+721,vindax,Vindax
+722,vitex,ViteX
+723,voltage_finance,Voltage Finance
+724,voltswap_meter,Voltswap (Meter)
+725,voltswap_theta,Voltswap (Theta)
+726,vvs,VVS Finance
+727,wagyuswap,WagyuSwap
+728,wannaswap,Wannaswap
+729,wanswap,WanSwap
+730,waultswap_polygon,WaultSwap Polygon
+731,wavelength,Wavelength
+732,waves,WX Network
+733,wazirx,WazirX
+734,wemix_fi,WEMIX.Fi
+735,whitebit,WhiteBIT
+736,whitebit_futures,WhiteBIT Futures
+737,wigoswap,Wigoswap
+738,wingriders,WingRiders
+739,wombat,Wombat Exchange (BNB)
+740,wombat_arbitrum,Wombat (Arbitrum)
+741,woofi,WOOFi
+742,woo_network_futures,WOO X (Futures)
+743,wootrade,WOO X
+744,xave,Xave Finance
+745,xcad,XCAD DEX
+746,xswap,XSwap
+747,xt,XT.COM
+748,xt_derivatives,XT.COM (Derivatives)
+749,yobit,YoBit
+750,yodeswap,Yodeswap
+751,yokaiswap,Yokaiswap
+752,yoshi_exchange_bsc,Yoshi.exchange (BSC)
+753,yoshi_exchange_ftm,Yoshi.exchange (Fantom)
+754,yunex,Yunex.io
+755,zaif,Zaif
+756,zappy,Zappy
+757,zbg,ZBG
+758,zbg_futures,ZBG Futures
+759,zbx,ZBX
+760,zebitex,Zebitex
+761,zebpay,ZebPay
+762,zenlink_astar,Zenlink (Astar)
+763,zenlink_moonbeam,Zenlink (Moonbeam)
+764,zenlink_moonriver,Zenlink (Moonriver)
+765,zero_ex,0x Protocol
+766,zigzag,ZigZag (zkSync v1)
+767,zigzag_arbitrum,ZigZag (Arbitrum)
+768,zilswap,ZilSwap
+769,zipmex,Zipmex
+770,zipswap,ZipSwap
+771,zircon,Zircon
+772,zyberswap,Zyberswap
