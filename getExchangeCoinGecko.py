@@ -8,7 +8,7 @@ import os
 # The following function retrieves all the Exchanges names and ID's identified by CoinGecko
 
 def current_timestamp():
-    return str(datetime.today().strftime("%H:%M:%S:%f"))
+    return str(datetime.today().strftime('%Y-%m-%d')) + " " + str(datetime.today().strftime("%H:%M:%S:%f"))
 
 def current_date():
     return str(datetime.today().strftime('%Y%m%d'))
@@ -29,7 +29,7 @@ if __name__ == "__main__":
             print("({}) output_folder already created".format(current_timestamp()))
         try:
             df_exchange_symbols.to_csv(os.path.join(output_folder, 'AllExchanges_CoinGecko_{}.csv'.format(current_date()) ))
-            print("({0}) Dataframe exported to CSV as AllExchanges_CoinGecko_{0}.csv".format(current_timestamp(),current_date()))
+            print("({0}) Dataframe exported to CSV as AllExchanges_CoinGecko_{1}.csv".format(current_timestamp(),current_date()))
         except:
             print("({}) It was not possible to save/create the file".format(current_timestamp()))
         print("({0}) There is a total of {1} lines".format(current_timestamp(),str(df_exchange_symbols.shape[0])))
