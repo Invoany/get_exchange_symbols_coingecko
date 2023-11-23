@@ -713,10 +713,10 @@ index,id,name
 711,sifchain,Sifchain
 712,sinegy,SINEGY
 713,skydrome,Skydrome
-714,smardex,SmarDex
-715,smardex-arbitrum,SmarDex (Arbitrum)
-716,smardex-base,SmarDex (Base)
-717,smardex-bsc,SmarDex (BSC)
+714,smardex-arbitrum,SmarDex (Arbitrum)
+715,smardex-base,SmarDex (Base)
+716,smardex-bsc,SmarDex (BSC)
+717,smardex-ethereum,SmarDex
 718,smardex-polygon,SmarDex (Polygon)
 719,sobal,Sobal (Neon EVM)
 720,solarbeam,Solarbeam
