@@ -164,7 +164,7 @@ index,id,name
 162,bitunix_futures,Bitunix Futures
 163,bitvavo,Bitvavo
 164,bitvenus,BitVenus Futures
-165,bitvenus_spot,BitVenus
+165,bitvenus_spot,BVOX
 166,bladeswap,BladeSwap
 167,bladeswap-volatile-pools-blast,BladeSwap (Volatile Pools)
 168,blastdex,BlastDEX
@@ -1082,78 +1082,79 @@ index,id,name
 1080,verse,Verse
 1081,vertex_protocol_derivatives,Vertex (Derivatives)
 1082,vertex-protocol-spot,Vertex (Spot)
-1083,vindax,Vindax
-1084,viridian,Viridian
-1085,virtuswap,VirtuSwap
-1086,virtuswap-arbitrum-one,VirtuSwap (Arbitrum One)
-1087,vitex,ViteX
-1088,voltage_finance,Voltage Finance
-1089,voltage-finance-v3,Voltage Finance V3
-1090,voltswap_meter,Voltswap (Meter)
-1091,vvs,VVS Finance
-1092,vvs-v3-ethereum,VVS V3 (Ethereum)
-1093,wagmi-ethereum,WAGMI (Ethereum)
-1094,wagmi-kava,WAGMI (Kava)
-1095,wagmi-metis,WAGMI (Metis)
-1096,wagmi-zksync,WAGMI (zkSync)
-1097,wagyuswap,WagyuSwap
-1098,wannaswap,Wannaswap
-1099,wanswap,WanSwap
-1100,warpgate,WarpGate
-1101,waultswap_polygon,WaultSwap Polygon
-1102,wavelength,Wavelength
-1103,waves,WX Network
-1104,wazirx,WazirX
-1105,web3_world,Web3.World
-1106,websea,Websea
-1107,weex,WEEX
-1108,wemix_fi,WEMIX.Fi
-1109,whitebit,WhiteBIT
-1110,whitebit_futures,WhiteBIT Futures
-1111,white-whale-chihuahua,White Whale (Chihuahua)
-1112,white-whale-juno,White Whale (Juno)
-1113,white-whale-migaloo,White Whale (Migaloo)
-1114,white_whale_osmosis,White Whale (Osmosis)
-1115,wigoswap,Wigoswap
-1116,wingriders,WingRiders
-1117,wombat,Wombat Exchange (BNB)
-1118,wombat_arbitrum,Wombat (Arbitrum)
-1119,woofi,WOOFi
-1120,woofswap,WoofSwap
-1121,woofswap-core,WOOFSwap (Core)
-1122,woo_network_futures,WOO X (Futures)
-1123,wootrade,WOO X
-1124,xave,Xave Finance
-1125,xcad,XCAD DEX
-1126,xdx,XDX
-1127,xeggex,XeggeX
-1128,xenos-swap,Xenos Swap
-1129,xswap,XSwap
-1130,xswap-v3,XSwap Protocol V3
-1131,xt,XT.COM
-1132,xt_derivatives,XT.COM (Derivatives)
-1133,yobit,YoBit
-1134,yodeswap,Yodeswap
-1135,yokaiswap,Yokaiswap
-1136,yoshi_exchange_bsc,Yoshi.exchange (BSC)
-1137,yoshi_exchange_ftm,Yoshi.exchange (Fantom)
-1138,zaif,Zaif
-1139,zappy,Zappy
-1140,zbx,ZBX
-1141,zebitex,Zebitex
-1142,zebpay,ZebPay
-1143,zenlink_astar,Zenlink (Astar)
-1144,zenlink_bitfrost_kusama,Zenlink (Bifrost Kusama)
-1145,zenlink_moonbeam,Zenlink (Moonbeam)
-1146,zenlink_moonriver,Zenlink (Moonriver)
-1147,zero_ex,0x Protocol
-1148,zilswap,ZilSwap
-1149,zipmex,Zipmex
-1150,zipswap,ZipSwap
-1151,zircon,Zircon
-1152,zkera_finance,zkEra Finance
-1153,zkera-finance-metis,zkEra Finance (Metis)
-1154,zkera-finance-telos,zkEra Finance (Telos)
-1155,zkswap-finance,zkSwap Finance
-1156,zora-energy-swap,Zora Energy Swap
-1157,zyberswap,Zyberswap
+1083,verylongswap,VeryLongSwap
+1084,vindax,Vindax
+1085,viridian,Viridian
+1086,virtuswap,VirtuSwap
+1087,virtuswap-arbitrum-one,VirtuSwap (Arbitrum One)
+1088,vitex,ViteX
+1089,voltage_finance,Voltage Finance
+1090,voltage-finance-v3,Voltage Finance V3
+1091,voltswap_meter,Voltswap (Meter)
+1092,vvs,VVS Finance
+1093,vvs-v3-ethereum,VVS V3 (Ethereum)
+1094,wagmi-ethereum,WAGMI (Ethereum)
+1095,wagmi-kava,WAGMI (Kava)
+1096,wagmi-metis,WAGMI (Metis)
+1097,wagmi-zksync,WAGMI (zkSync)
+1098,wagyuswap,WagyuSwap
+1099,wannaswap,Wannaswap
+1100,wanswap,WanSwap
+1101,warpgate,WarpGate
+1102,waultswap_polygon,WaultSwap Polygon
+1103,wavelength,Wavelength
+1104,waves,WX Network
+1105,wazirx,WazirX
+1106,web3_world,Web3.World
+1107,websea,Websea
+1108,weex,WEEX
+1109,wemix_fi,WEMIX.Fi
+1110,whitebit,WhiteBIT
+1111,whitebit_futures,WhiteBIT Futures
+1112,white-whale-chihuahua,White Whale (Chihuahua)
+1113,white-whale-juno,White Whale (Juno)
+1114,white-whale-migaloo,White Whale (Migaloo)
+1115,white_whale_osmosis,White Whale (Osmosis)
+1116,wigoswap,Wigoswap
+1117,wingriders,WingRiders
+1118,wombat,Wombat Exchange (BNB)
+1119,wombat_arbitrum,Wombat (Arbitrum)
+1120,woofi,WOOFi
+1121,woofswap,WoofSwap
+1122,woofswap-core,WOOFSwap (Core)
+1123,woo_network_futures,WOO X (Futures)
+1124,wootrade,WOO X
+1125,xave,Xave Finance
+1126,xcad,XCAD DEX
+1127,xdx,XDX
+1128,xeggex,XeggeX
+1129,xenos-swap,Xenos Swap
+1130,xswap,XSwap
+1131,xswap-v3,XSwap Protocol V3
+1132,xt,XT.COM
+1133,xt_derivatives,XT.COM (Derivatives)
+1134,yobit,YoBit
+1135,yodeswap,Yodeswap
+1136,yokaiswap,Yokaiswap
+1137,yoshi_exchange_bsc,Yoshi.exchange (BSC)
+1138,yoshi_exchange_ftm,Yoshi.exchange (Fantom)
+1139,zaif,Zaif
+1140,zappy,Zappy
+1141,zbx,ZBX
+1142,zebitex,Zebitex
+1143,zebpay,ZebPay
+1144,zenlink_astar,Zenlink (Astar)
+1145,zenlink_bitfrost_kusama,Zenlink (Bifrost Kusama)
+1146,zenlink_moonbeam,Zenlink (Moonbeam)
+1147,zenlink_moonriver,Zenlink (Moonriver)
+1148,zero_ex,0x Protocol
+1149,zilswap,ZilSwap
+1150,zipmex,Zipmex
+1151,zipswap,ZipSwap
+1152,zircon,Zircon
+1153,zkera_finance,zkEra Finance
+1154,zkera-finance-metis,zkEra Finance (Metis)
+1155,zkera-finance-telos,zkEra Finance (Telos)
+1156,zkswap-finance,zkSwap Finance
+1157,zora-energy-swap,Zora Energy Swap
+1158,zyberswap,Zyberswap
