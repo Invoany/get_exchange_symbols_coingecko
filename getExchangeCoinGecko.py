@@ -106,18 +106,6 @@ def get_exchange_symbols_coingecko(output_folder=DEFAULT_OUTPUT_FOLDER, export_t
         logging.error(f"An unexpected error occurred: {e}")
         return None
 
-# Progress bar for data processing (future use)
-def process_data_with_progress_bar(data, process_function):
-    """
-    Process a dataset with a progress bar.
-
-    Args:
-        data (iterable): The dataset to process.
-        process_function (callable): The function to apply to each item.
-    """
-    for item in tqdm(data, desc="Processing data"):
-        process_function(item)
-
 if __name__ == "__main__":
     # Call the main function to fetch and process exchange symbols
     df_exchange_symbols = get_exchange_symbols_coingecko()
