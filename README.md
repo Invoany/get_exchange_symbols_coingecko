@@ -51,16 +51,12 @@ The following directory structure is recommended for running the script:
 project_folder/
 ├── config/
 │   ├── config.json
-├── Output/  # Automatically created if missing
-├── exchange.log
 ├── main.py
 ├── controller/
 │   ├── exchange_controller.py
 ├── model/
 │   ├── exchange_model.py
 │   ├── data_treatment.py
-├── view/
-│   ├── exchange_view.py
 ```
 
 ---
