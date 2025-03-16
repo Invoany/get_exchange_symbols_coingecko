@@ -1,4 +1,6 @@
-[2025-03-16 00:16:01.205] [INFO] Fetching exchanges from CoinGecko.
-[2025-03-16 00:16:01.366] [DEBUG] Starting new HTTPS connection (1): api.coingecko.com:443
-[2025-03-16 00:16:02.649] [DEBUG] https://api.coingecko.com:443 "GET /api/v3/exchanges/list HTTP/1.1" 200 None
-[2025-03-16 00:16:02.859] [INFO] Written 1282 lines to CSV: Output/AllExchanges_20250316.csv
+[2025-03-16 17:55:43.236] [INFO] Fetching exchanges from CoinGecko.
+[2025-03-16 17:55:43.270] [DEBUG] Starting new HTTPS connection (1): api.coingecko.com:443
+[2025-03-16 17:55:43.279] [DEBUG] Incremented Retry for (url='/api/v3/exchanges/list'): Retry(total=2, connect=2, read=3, redirect=None, status=None)
+[2025-03-16 17:55:43.279] [WARNING] Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fae1cae10>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/v3/exchanges/list
+[2025-03-16 17:55:43.280] [DEBUG] Starting new HTTPS connection (2): api.coingecko.com:443
+[2025-03-16 17:55:43.288] [DEBUG] Incremented Retry for (url='/api/v3/exchanges/list'): Retry(total=1, connect=1, read=3, redirect=None, status=None)
