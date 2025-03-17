@@ -292,6 +292,7 @@ curve-fraxtal,Curve (Fraxtal)
 curve_moonbeam,Curve (Moonbeam)
 curve_optimism,Curve (Optimism)
 curve_polygon,Curve (Polygon)
+curve-sonic,Curve (Sonic)
 cyberblast-v2,Cyberblast V2
 cyberblast-v3,Cyberblast V3
 cyberperp,Cyberperp
@@ -745,7 +746,6 @@ occamx,OccamX
 oceanex,Oceanex
 ocelex-v3,Ocelex V3
 ociswap,Ociswap
-odinswap,OdinSwap
 okcoin,Okcoin
 okcoin-japan,OKJ
 okex,OKX
@@ -1183,6 +1183,7 @@ velodrome-finance-slipstream-lisk,Velodrome Finance Slipstream (Lisk)
 velodrome-finance-slipstream-mode,Velodrome Finance Slipstream (Mode)
 velodrome-finance-slipstream-soneium,Velodrome Finance Slipstream (Soneium)
 velodrome-finance-slipstream-swellchain,Velodrome Finance Slipstream (Swellchain)
+velodrome-finance-slipstream-unichain,Velodrome Finance Slipstream (Unichain)
 velodrome-finance-v2,Velodrome Finance V2 (Optimism)
 velodrome-finance-v2-fraxtal,Velodrome Finance V2 (Fraxtal)
 velodrome-finance-v2-ink,Velodrome Finance V2 (Ink)
