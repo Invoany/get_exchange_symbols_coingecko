@@ -299,7 +299,7 @@ cyberblast-v2,Cyberblast V2
 cyberblast-v3,Cyberblast V3
 cyberperp,Cyberperp
 cytoswap,Cytoswap
-d8x-futures,D8X
+d8x-futures,D8X (Berachain)
 dackieswap,DackieSwap V3
 dackieswap-v2,DackieSwap V2
 dackieswap-v3-mode,DackieSwap V3 (Mode)
@@ -606,7 +606,7 @@ kujira,Kujira Fin
 kumex,KuCoin Futures
 kuna,Kuna Exchange
 kuswap,Kuswap
-kwenta_derivatives,Kwenta Derivatives
+kwenta_derivatives,Synthetix Exchange
 kyberswap_classic_arbitrum,Kyberswap Classic (Arbitrum)
 kyberswap_classic_avalanche,KyberSwap Classic (Avalanche)
 kyberswap_classic_bsc,KyberSwap Classic (BSC)
@@ -624,6 +624,7 @@ kyberswap-elastic-linea,Kyberswap Elastic (Linea)
 kyberswap_elastic_optimism,Kyberswap Elastic (Optimism)
 kyberswap_elastic_polygon,Kyberswap Elastic (Polygon)
 kyo-finance-v3,Kyo Finance V3
+laminar,Laminar
 larissa-swap,Larissa Swap
 laserswap,LaserSwap
 latoken,LATOKEN
@@ -921,6 +922,7 @@ secondbtc,SecondBTC
 secretswap,SecretSwap
 secta-finance-v2,Secta Finance V2 (Linea)
 secta-finance-v3,Secta Finance V3 (Linea)
+seedfi,SeedFi
 serum_dex,Serum DEX
 shade_protocol,Shade Protocol
 shadow-exchange,Shadow Exchange
@@ -1191,6 +1193,7 @@ velodrome-finance-slipstream-ink,Velodrome Finance Slipstream (Ink)
 velodrome-finance-slipstream-lisk,Velodrome Finance Slipstream (Lisk)
 velodrome-finance-slipstream-mode,Velodrome Finance Slipstream (Mode)
 velodrome-finance-slipstream-soneium,Velodrome Finance Slipstream (Soneium)
+velodrome-finance-slipstream-superseed,Velodrome Finance Slipstream (Superseed)
 velodrome-finance-slipstream-swellchain,Velodrome Finance Slipstream (Swellchain)
 velodrome-finance-slipstream-unichain,Velodrome Finance Slipstream (Unichain)
 velodrome-finance-v2,Velodrome Finance V2 (Optimism)
