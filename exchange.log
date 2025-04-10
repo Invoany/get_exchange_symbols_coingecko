@@ -1,4 +1,4 @@
-[2025-04-08 16:31:33.488] [INFO] Fetching exchanges from CoinGecko.
-[2025-04-08 16:31:33.514] [DEBUG] Starting new HTTPS connection (1): api.coingecko.com:443
-[2025-04-08 16:31:33.944] [DEBUG] https://api.coingecko.com:443 "GET /api/v3/exchanges/list HTTP/1.1" 200 None
-[2025-04-08 16:31:34.006] [INFO] Written 1299 lines to CSV: Output/AllExchanges_20250408.csv
+[2025-04-11 00:15:59.182] [INFO] Fetching exchanges from CoinGecko.
+[2025-04-11 00:15:59.343] [DEBUG] Starting new HTTPS connection (1): api.coingecko.com:443
+[2025-04-11 00:16:00.319] [DEBUG] https://api.coingecko.com:443 "GET /api/v3/exchanges/list HTTP/1.1" 200 None
+[2025-04-11 00:16:00.508] [INFO] Written 1298 lines to CSV: Output/AllExchanges_20250411.csv
