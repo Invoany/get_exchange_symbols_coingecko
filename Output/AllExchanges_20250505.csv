@@ -8,7 +8,6 @@ aboard-exchange,Aboard Exchange
 abstradex,AbstraDEX
 acala_swap,Acala Swap
 acdx,ACDX
-ace,Ace
 aerodrome-base,Aerodrome (Base)
 aerodrome-slipstream,Aerodrome SlipStream
 aevo,Aevo
@@ -107,14 +106,11 @@ bigone,BigONE
 bigone_futures,BigONE Futures
 bilaxy,Bilaxy
 binance,Binance
-binance_dex,Binance DEX
-binance_dex_mini,Binance DEX (Mini)
 binance_futures,Binance (Futures)
 binance_us,Binance US
 bingx,BingX
 bingx_futures,BingX (Futures)
 birake,Birake
-bisq,Bisq
 biswap,Biswap
 biswap-v3-1,Biswap V3
 bit2c,Bit2c
@@ -122,7 +118,6 @@ bit2me,Bit2Me
 bitazza,Bitazza
 bitbank,Bitbank
 bitbay,zondacrypto
-bitbegin,Bitbegin
 bitbns,BitBNS
 bitcastle,bitcastle
 bitci,Bitci TR
@@ -173,7 +168,6 @@ bitvavo,Bitvavo
 bitvenus,BVOX (Futures)
 bitvenus_spot,BVOX
 bladeswap,BladeSwap
-bladeswap-volatile-pools-blast,BladeSwap (Volatile Pools)
 blasterswap,BlasterSwap
 blasterswap-v3,Blasterswap V3
 blazeswap,Blazeswap (Songbird)
@@ -188,6 +182,7 @@ bluelotusdao,BlueLotusDAO
 bluemove,BlueMove
 blueprint,Blueprint
 blueshift,Blueshift
+boop-fun,Boop.fun
 btc_alpha,BTC-Alpha
 btcbox,BTCBOX
 btcc,BTCC
@@ -218,6 +213,8 @@ camelot-v3-corn,Camelot V3 (Corn)
 camelot-v3-edu-chain,Camelot V3 (EDU Chain)
 camelot-v3-gravity,Camelot V3 (Gravity)
 canto_dex,Canto Dex
+capybaradex-v2,CapybaraDEX V2
+capybaradex-v3,CapybaraDEX V3
 carbon,Carbon Defi (Ethereum)
 carbon-defi-celo,Carbon DeFi (Celo)
 carbon-defi-seiv2,Carbon DeFi (Sei V2)
@@ -278,7 +275,6 @@ cryptal,Cryptal
 crypto_com,Crypto.com Exchange
 crypto_com_futures,Crypto.com Exchange (Futures)
 cryptology,Tothemoon
-cswap,cSwap
 cube,Cube
 cubiswap,CUBISwap
 currency,Currency.com
@@ -338,11 +334,9 @@ dexie,dexie
 dexlab,Dexlab
 dexonic,Dexonic
 dexter,Persistence DEX
-dextoro,DexToro Pro
 dextrade,Dex-Trade
 dezswap,Dezswap
 dfx,DFX
-dfx_polygon,DFX (Polygon)
 dfyn,Dfyn
 difx,DIFX
 digifinex,DigiFinex
@@ -356,8 +350,6 @@ dodo_polygon,DODO (Polygon)
 dodo_zircuit,DODO (Zircuit)
 dogeshrek,Dogeshrek
 dogeswap,DogeSwap
-dojoswap,DojoSwap
-donekswap,Donkeswap
 dooar_bsc,DOOAR (BSC)
 dooar_ethereum,DOOAR (Ethereum)
 dooar-polygon,DOOAR (Polygon)
@@ -406,7 +398,6 @@ enosys-v3-flare,Enosys V3 (Flare)
 equalizer,Equalizer
 equalizer-base,Equalizer (Base)
 equalizer-sonic,Equalizer (Sonic)
-equation,Equation
 equilibre,Équilibre
 etcmc,ETCMC
 etcswap-v2,ETCswap V2
@@ -426,10 +417,12 @@ fatbtc,FatBTC
 fathom-dex,Fathom DEX
 fenix-finance,Fenix Finance
 ferro_protocol,Ferro Protocol
+figure_markets,Figure Markets
 firefly,Firefly
 first-ledger,First Ledger
 flatqube,FlatQube
 flow-x,FlowX Finance
+fluid,Fluid
 fluxbeam,FluxBeam
 fmcpay,FMCPAY
 forge,Forge
@@ -474,7 +467,7 @@ grovex,GroveX
 grvt_futures,GRVT
 gull-network,Gull Network
 h2-finance,H2 Finance
-halo_trade,Halo Trade
+halo_trade,AuraSwap
 hashkey_exchange,HashKey Exchange
 hashkey-global,HashKey Global
 hashkey-global-futures,HashKey Global (Futures)
@@ -505,7 +498,6 @@ huckleberry,Huckleberry
 huobi,HTX
 huobi_dm,HTX Futures
 huobi_japan,BitTrade
-hydra,Hydra DEX
 hydradx,Hydration
 hyperblast,HyperBlast
 hyperliquid,Hyperliquid (Futures)
@@ -519,7 +511,6 @@ icecreamswap-v3-core,IceCreamSwap V3 (CORE)
 icpex,ICPEx
 icpswap,ICPSwap
 icrypex,Icrypex
-idex,Idex
 iguanadex,IguanaDEX
 illuminex,illumineX
 impossible_finance,Impossible Finance
@@ -553,7 +544,6 @@ iziswap-zklink-nova,iZiSwap (zkLink Nova)
 iziswap_zksync,iZiSwap (zkSync)
 jediswap-starknet-alpha,JediSwap
 jellyswap,Jellyverse
-jetswap,JetSwap
 jojo-exchange-futures,JOJO Exchange
 jswap,Jswap
 julswap,Julswap
@@ -603,7 +593,6 @@ ktx_finance_mantle_derivatives,KTX.Finance (Mantle)
 kucoin,KuCoin
 kujira,Kujira Fin
 kumex,KuCoin Futures
-kuna,Kuna Exchange
 kuswap,Kuswap
 kwenta_derivatives,Synthetix Exchange
 kyberswap_classic_arbitrum,Kyberswap Classic (Arbitrum)
@@ -704,11 +693,8 @@ milkyswap-milkada,MilkySwap
 mimo,Mimo
 minswap,Minswap
 mintswap,MintSwap
-mistswap_smart_bitcoin_cash,Mistswap
 mm_finance,MMFinance (Cronos)
 mm-finance-arbitrum,MM Finance (Arbitrum)
-mmfinance_polygon,MMFinance (Polygon)
-mmfinance-v3-arbitrum,MMFinance V3 (Arbitrum)
 mojitoswap,MojitoSwap
 monoswap-V2-blast,MonoSwap V2 (Blast)
 monoswap-v3-blast,MonoSwap V3 (Blast)
@@ -726,14 +712,12 @@ nachoswap,NachoSwap
 namebase,Namebase
 nami_exchange,Nami Exchange
 nanu_exchange,Nanu Exchange
-narkasa,Narkasa
 nash,Nash
 nbx,NBX
 nearpad,NearPAD
 neptune,Neptune
 netswap,Netswap
 neutroswap,Neutroswap
-newdex,Newdex
 nice_hash,NiceHash
 nile,NILE
 nile-v1,NILE V1
@@ -759,6 +743,7 @@ oku-trade-bob-network,Oku Trade (BOB Network)
 oku-trade-corn,Oku Trade (Corn)
 oku-trade-filecoin,Oku Trade (Filecoin)
 oku-trade-goat,Oku Trade (Goat)
+oku-trade-lens,Oku Trade (Lens)
 oku-trade-linea,Oku Trade (Linea)
 oku-trade-manta-pacific,Oku Trade (Manta Pacific)
 oku-trade-moonbeam,Oku Trade (Moonbeam)
@@ -771,7 +756,6 @@ omax-swap,Omax Swap
 omgfin,Omgfin
 omnidex,OmniDex
 onedex,OneDex
-one_intro,1INTRO
 oolongswap,Oolongswap
 openbook,OpenBook
 openleverage,OpenLeverage
@@ -785,7 +769,6 @@ orangex,OrangeX
 orangex_futures,OrangeX Futures
 orca,Orca
 orca-eclipse,Orca (Eclipse)
-orderbook,Orderbook.io
 orderly_network,Orderly
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 orderly_network_derivatives_evm,Orderly (Derivatives)
@@ -843,7 +826,7 @@ pinto-exchange,Pinto Exchange
 pionex,Pionex
 piperx-v3,PiperX V3
 planet_finance,Planet Finance
-plenty_network,Plenty Network
+plunderswap,Plunderswap
 pnix-dex,PNIX DEX
 pointpay,PointPay
 polaris,Polaris
@@ -863,6 +846,7 @@ pulsex,PulseX
 pulsex-v2,PulseX V2
 pumpswap,PumpSwap
 punchswap,PunchSwap
+punchswap-v3,PunchSwap V3
 punkswap,Punkswap
 purcow,Purcow
 qmall,QMall
@@ -895,7 +879,6 @@ reservoir-v2,Uniswap V2 (Reservoir on Zero)
 reservoir-v3,Uniswap V3 (Reservoir on Zero)
 retherswap,Retherswap
 retro,Retro
-revoswap,Revoswap
 revoswap-v2,Revoswap V2
 ring-exchange-blast,Ring Exchange
 ritsu,Ritsu
@@ -905,15 +888,13 @@ roguex-protocol,RogueX Protocol
 rubicon-arbitrum-one,Rubicon (Arbitrum One)
 rubicon-base,Rubicon (Base)
 rubicon-optimism,Rubicon (Optimism)
-ruby_exchange,Ruby Exchange
-saber,Saber
 safe_trade,SafeTrade
 sailfish,SailFish
 sailor,Sailor
 saitaswap-bsc,SaitaSwap (BSC)
 saitaswap-ethereum,SaitaSwap (Ethereum)
 sakeswap,SakeSwap
-saros,Saros Finance
+saros,Saros DEX
 satori-base,Satori (Base)
 satori-linea,Satori (Linea)
 saturn-swap,Saturn Swap
@@ -921,11 +902,10 @@ saucerswap,Saucerswap V1
 saucerswap-v2,Saucerswap V2
 scribe,Scribe
 secondbtc,SecondBTC
-secretswap,SecretSwap
 secta-finance-v2,Secta Finance V2 (Linea)
 secta-finance-v3,Secta Finance V3 (Linea)
 seedfi,SeedFi
-serum_dex,Serum DEX
+sega,Sega
 shade_protocol,Shade Protocol
 shadow-exchange,Shadow Exchange
 shadowswap,ShadowSwap
@@ -976,12 +956,10 @@ sparkdex-v3-1,SparkDEX V3.1
 spartadex,SpartaDEX
 spartan_protocol,Spartan Protocol
 spectrum_finance,Spectrum Finance
-spherex,SphereX
 sphynx_brise,Sphynx (Brise)
 sphynx_swap,Sphynx Swap (BSC)
 spice_trade_avalanche,Spice Trade (Avalanche)
 spicyswap,Spicyswap
-spin,Spin
 spinaqdex,SpinaqDex
 spiritswap,SpiritSwap
 spiritswap_v2,SpiritSwap (V2)
@@ -990,8 +968,8 @@ spookyswap,SpookySwap
 spookyswap-v2-sonic,Spookyswap V2 (Sonic)
 spookyswap-v3,SpookySwap V3 
 spookyswap-v3-sonic,SpookySwap V3 (Sonic)
-squadswap,SquadSwap V2
-squadswap-v3,SquadSwap V3
+squadswap-v2-bsc,SquadSwap Dynamo (BSC)
+squadswap-v3-bsc,SquadSwap WOW (BSC)
 squidswap,Squidswap
 stabble,stabble
 stake_cube,StakeCube Exchange
@@ -1006,8 +984,6 @@ step-exchange,Step Exchange
 step_finance,Step Finance
 ston_fi,STON.fi
 stonfi-v2,STON.fi (V2)
-stormgain,Stormgain
-stormgain_futures,Stormgain Futures
 story-hunt,Story Hunt
 stratum-exchange,Stratum Exchange
 suiswap,Suiswap
@@ -1078,9 +1054,7 @@ syncswap-v3-zksync,SyncSwap V3 (zkSync)
 synfutures,SynFutures
 synthswap,Synthswap
 synthswap-v3,Synthswap V3
-taffy-finance,Taffy Finance
 taikoswap,TaikoSwap
-tangleswap,TangleSwap
 tangleswap-milkomeda-cardano,TangleSwap (Milkomeda Cardano)
 tangoswap,TangoSwap
 tanx,tanX
@@ -1089,7 +1063,6 @@ taraswap,Taraswap
 tdax,Orbix
 tealswap,Tealswap
 templedao,TempleDAO
-tenderswap,Tenderswap
 terraport,Terraport
 terraswap,Terraswap Classic
 tesseract-world,Tesseract World
@@ -1106,7 +1079,6 @@ thorwallet,THORWallet DEX
 thruster-v2-0-3-fee-tier,Thruster V2 (0.3% Fee Tier)
 thruster-v2-1-0-fee-tier,Thruster V2 (1.0% Fee Tier)
 thruster-v3,Thruster V3
-tidex,Tidex
 tinyman,Tinyman
 tokan-exchange,Tokan Exchange
 tokenize,Tokenize
@@ -1206,6 +1178,7 @@ velodrome-finance-v2-fraxtal,Velodrome Finance V2 (Fraxtal)
 velodrome-finance-v2-ink,Velodrome Finance V2 (Ink)
 velodrome-finance-v2-mode,Velodrome Finance V2 (Mode)
 velodrome-finance-v2-swellchain,Velodrome Finance V2 (Swellchain)
+velodrome-finance-v2-unichain,Velodrome Finance V2 (Unichain)
 verse,Verse
 vertex-edge-abstract,Vertex Edge (Abstract)
 vertex-edge-base,Vertex Edge (Base)
@@ -1221,7 +1194,6 @@ vindax,Vindax
 viridian,Viridian
 virtuswap,VirtuSwap
 virtuswap-arbitrum-one,VirtuSwap (Arbitrum One)
-vitex,ViteX
 voltage_finance,Voltage Finance
 voltage-finance-v3,Voltage Finance V3
 voltage-finance-v4,Voltage Finance V4
@@ -1266,10 +1238,8 @@ wufiswap,Wufiswap
 x7-finance-base,X7 Finance (Base)
 x7-finance-ethereum,X7 Finance (Ethereum)
 xave,Xave Finance
-xcad,XCAD DEX
 xdx,XDX
 xeggex,XeggeX
-xenos-swap,Xenos Swap
 xswap,XSwap
 xswap-v3,XSwap Protocol V3
 xt,XT.COM
@@ -1288,7 +1258,6 @@ zenlink_astar,Zenlink (Astar)
 zenlink_bitfrost_kusama,Zenlink (Bifrost Kusama)
 zenlink_moonbeam,Zenlink (Moonbeam)
 zenlink_moonriver,Zenlink (Moonriver)
-zero_ex,0x Protocol
 zilswap,ZilSwap
 zipmex,Zipmex
 zipswap,ZipSwap
