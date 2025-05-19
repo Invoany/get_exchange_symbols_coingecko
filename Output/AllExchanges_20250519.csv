@@ -39,6 +39,7 @@ aqx_derivatives,Flipster
 arbidex,Arbidex
 arbswap_arbitrum_one,Arbswap
 archerswap,Archerswap
+arena-dex,Arena DEX
 arkham,Arkham
 arkham_futures,Arkham (Futures)
 armada,Armada
@@ -498,6 +499,7 @@ huobi_dm,HTX Futures
 huobi_japan,BitTrade
 hydradx,Hydration
 hyperblast,HyperBlast
+hyperion,Hyperion
 hyperliquid,Hyperliquid (Futures)
 hyperliquid-spot,Hyperliquid
 hyperswap-areon-network,HyperSwap
@@ -883,6 +885,7 @@ ritsu,Ritsu
 robots-farm-base,Robots.Farm
 rockswap,Rockswap
 roguex-protocol,RogueX Protocol 
+rooster-protocol,Rooster Protocol
 rubicon-arbitrum-one,Rubicon (Arbitrum One)
 rubicon-base,Rubicon (Base)
 rubicon-optimism,Rubicon (Optimism)
@@ -892,7 +895,7 @@ sailor,Sailor
 saitaswap-bsc,SaitaSwap (BSC)
 saitaswap-ethereum,SaitaSwap (Ethereum)
 sakeswap,SakeSwap
-saros,Saros DEX
+saros,Saros AMM
 satori-base,Satori (Base)
 satori-linea,Satori (Linea)
 saturn-swap,Saturn Swap
@@ -1212,6 +1215,7 @@ warpgate,WarpGate
 wavelength,Wavelength
 waves,WX Network
 wazirx,WazirX
+w-dex-polygon,W-DEX (Polygon) 
 web3_world,Web3.World
 websea,Websea
 weex,WEEX
@@ -1265,5 +1269,6 @@ zkera-finance-telos,zkEra Finance (Telos)
 zkswap-finance,zkSwap Finance
 zkswap-finance-stableswap,zkSwap Finance StableSwap
 zkswap-v3,zkSwap Finance V3
+zoomex,Zoomex
 zora-energy-swap,Zora Energy Swap
 zyberswap,Zyberswap
