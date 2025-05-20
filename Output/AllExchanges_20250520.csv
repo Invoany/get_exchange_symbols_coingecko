@@ -236,7 +236,6 @@ clipper-arbitrum,Clipper (Arbitrum)
 clipper_ethereum,Clipper (Ethereum)
 clipper_optimism,Clipper (Optimism)
 clipper_polygon,Clipper (Polygon)
-cme_futures,CME Group
 coinbase_international,Coinbase International Exchange
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 coincall,Coincall
@@ -429,7 +428,6 @@ forteswap,Forteswap
 foxbit,Foxbit
 fraxswap_ethereum,Fraxswap (Ethereum)
 fraxswap-fraxtal,Fraxswap (Fraxtal)
-freiexchange,Freiexchange
 friendly_market,Friendly Market
 funki,Funki DEX
 fusionx-v2,FusionX V2
@@ -441,7 +439,7 @@ fwx-futures-base,FWX (Futures) (Base)
 gaming-dex-defiverse,Gaming Dex (DeFiVerse)
 gaming-dex-oasys,Gaming DEX (Oasys)
 gasx,GasX
-gate,Gate.io
+gate,Gate
 gate_futures,Gate.io (Futures)
 gdax,Coinbase Exchange
 gemini,Gemini
@@ -559,6 +557,7 @@ katana,Katana
 katana-v3,Katana V3
 kava,Kava Swap
 kayen,KAYEN
+kcex,KCEX
 kcex-futures,KCEX (Futures)
 kewlswap-chiliz-chain,KEWLSwap (Chiliz Chain)
 kickex,KickEX
