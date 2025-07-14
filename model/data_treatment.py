@@ -9,7 +9,7 @@ class CustomFormatter(logging.Formatter):
     """
     def formatTime(self, record, datefmt=None):
         dt = datetime.fromtimestamp(record.created)
-        return dt.strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]  # Keeps 3 decimal places for milliseconds
+        return dt.strftime('%Y-%m-%d %H:%M:%S:%f')  # Keeps 3 decimal places for milliseconds
 
 def configure_logging():
     """
@@ -17,16 +17,20 @@ def configure_logging():
     - Logs are written to 'exchange.log' with DEBUG level.
     - The log format includes timestamp, log level, and message.
     """
-    log_format = '[%(asctime)s] [%(levelname)s] %(message)s'
+    log_format = '(%(asctime)s) [%(levelname)s] %(message)s'
     formatter = CustomFormatter(log_format)
 
-    # File handler to write logs to 'exchange.log'
-    file_handler = logging.FileHandler("exchange.log", mode='w', encoding='utf-8')
-    file_handler.setLevel(logging.DEBUG)  # Logs all messages (DEBUG and above)
-    file_handler.setFormatter(formatter)
+    # Console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.DEBUG)
+    console_handler.setFormatter(formatter)
 
-    # Apply handler to the root logger
-    logging.basicConfig(level=logging.DEBUG, handlers=[file_handler])
+    # Clear any existing handlers
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+
+    # Apply new handler
+    logging.basicConfig(level=logging.DEBUG, handlers=[console_handler])
 
 def load_config():
     """
